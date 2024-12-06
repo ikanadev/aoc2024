@@ -57,7 +57,7 @@ func Part1() {
 			totalSafe++
 		}
 	}
-	fmt.Printf("Part1: %d\n", totalSafe)
+	fmt.Printf("D2P1: %d\n", totalSafe)
 }
 
 func Part2() {
@@ -78,5 +78,5 @@ func Part2() {
 			}
 		}
 	}
-	fmt.Printf("Part2: %d\n", totalSafe)
+	fmt.Printf("D2P2: %d\n", totalSafe)
 }

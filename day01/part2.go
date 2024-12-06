@@ -38,5 +38,5 @@ func Part2() {
 		scoresMap[numberToCount] = numberToCount * timesFound
 		total += numberToCount * timesFound
 	}
-	fmt.Printf("Part2: %d\n", total)
+	fmt.Printf("D1P2: %d\n", total)
 }

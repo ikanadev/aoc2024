@@ -33,5 +33,5 @@ func Part1() {
 		}
 		total += diff
 	}
-	fmt.Printf("Part1: %d\n", total)
+	fmt.Printf("D1P1: %d\n", total)
 }
